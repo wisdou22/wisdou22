@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wisly Douyon
 ====================================================================================================================================
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Wisly Douyon</h1>
 <h3 align="center">Live and breath all things data related</h3>
 https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd0azRtZTJzbzF2a3VscnV6MWVqbWxpa3Zoemw1end6c21rcXl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif
